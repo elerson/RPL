@@ -1,0 +1,8 @@
+To use the code you need:
+	*A MSP430 device with at least 512bytes of RAM and 8kbytes ROM (the implementation uses 370bytes, but the memory size is power of 2)
+	*A Breakout board to connect the MSP430 launchpad to a zigbee.(The project is available at hardwareProject directory)
+	*For the msp430: The Code Composer Studio IDE(http://www.ti.com/tool/ccstudio) 
+	*For the sink: Qt (http://qt-project.org/downloads)
+
+
+

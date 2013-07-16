@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release
+END
+blink.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/blink.obj
+END
+subdir_rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/subdir_rules.mk
+END
+rpl.map
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/rpl.map
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/sources.mk
+END
+subdir_vars.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/subdir_vars.mk
+END
+blink.pp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/blink.pp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/makefile
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/objects.mk
+END
+rpl.out
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/rpl.out
+END
+ccsObjs.opt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pimrc2013/!svn/ver/4/trunk/msp430RPLCode/src/nodes/Release/ccsObjs.opt
+END

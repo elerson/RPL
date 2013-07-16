@@ -1,0 +1,1 @@
+"./zigbee.obj" "./rpl.obj" "./queue.obj" "./protocol.obj" "./main.obj" "./ip6.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 

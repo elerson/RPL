@@ -1,0 +1,4 @@
+#ifndef SINKPLATFORM_H
+#define SINKPLATFORM_H
+#define SIMULATION
+#endif // SINKPLATFORM_H
